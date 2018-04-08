@@ -1,0 +1,24 @@
+{
+  "name": "scrap-evetbrt-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "eventbrite": "^0.1.6",
+    "moment": "^2.22.0",
+    "node-eventbrite": "0.0.19",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.1",
+    "react-country-region-selector": "^1.2.3",
+    "react-datepicker": "^1.4.1",
+    "react-dom": "^16.3.1",
+    "react-scripts": "1.1.4",
+    "react-text-truncate": "^0.13.1",
+    "superagent": "^3.8.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
